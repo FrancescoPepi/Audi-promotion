@@ -10,7 +10,7 @@
 
     <script type="text/javascript" src="../main.js" defer></script>
     <script type="text/javascript" src="../jsComponent/nav.js" defer></script>
-    <link rel="stylesheet" href="../main.css">
+    <link rel="stylesheet" href="../style.css">
     <title>Sesto Autoveicoli</title>
     <link rel="icon" type="image/x-icon"
         href="https://cdnwp.dealerk.com/920e35d2/uploads/sites/4/2021/07/logo-sede-carrozzeria-0x60.png">
